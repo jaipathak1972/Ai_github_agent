@@ -1,0 +1,9 @@
+langgraph>=0.0.35
+langchain-core>=0.1.55
+langchain-groq>=0.1.4
+pydantic>=2.0
+GitPython>=3.1.32
+PyGithub>=2.3.0
+python-dotenv>=1.0.1
+beautifulsoup4>=4.12.3
+
